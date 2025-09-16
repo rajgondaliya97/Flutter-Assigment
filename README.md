@@ -167,9 +167,7 @@ The Flutter app supports:
 ## 👨‍💻 Author  
 
 **Raj Gondaliya**  
-📧 Email: rajgondaliya972003@gmail.com  
-📞 Contact: +91 6353751734  
-
+📧 Email: rajgondaliya972003@gmail.com 
 ---
 
 **Built with ❤️ using Flutter + Node.js**  
